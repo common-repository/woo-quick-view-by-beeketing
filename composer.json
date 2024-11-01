@@ -1,0 +1,17 @@
+{
+    "name": "beeketing/quick-view",
+    "authors": [
+        {
+            "name": "tungquach",
+            "email": "tungquach@brodev.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Beeketing\\QuickView\\": "core/"
+        },
+        "files"   : [
+            "config.php"
+        ]
+    }
+}
